@@ -6,6 +6,7 @@ public class Report {
 		System.out.println("report pulling.");
 		
 		System.out.println("master report");
+		System.out.println("master");
 
 	}
 
